@@ -1,0 +1,15 @@
+---
+layout: post
+highlighter: rouge
+---
+
+# Hello!
+{% highlight javascript %}
+  console.log("hello!")
+{% endhighlight%}
+
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
