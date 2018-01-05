@@ -5,7 +5,10 @@ categories: Tools
 ---
 Shortcuts for [Spotify](https://wiki.archlinux.org/index.php/Spotify) from
 whichever window you want using
-[xbindkeys](https://wiki.archlinux.org/index.php/Xbindkeys) and dbus
+[xbindkeys](https://wiki.archlinux.org/index.php/Xbindkeys) and dbus.
+
+Xbindkeys is an useful program that allows you to define shortcuts to
+bash-commands, independently of the window manager.
 
 # The code
 This code snippet toggles Spotify music between play and pause:
