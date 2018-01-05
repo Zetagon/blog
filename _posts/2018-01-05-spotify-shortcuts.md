@@ -3,6 +3,16 @@ layout: post
 title:  "Binding shortcuts to Spotify actions"
 categories: Tools
 ---
+# Foreword
+
+Hello, my name is Leo. This is as you can see my very first blog post so I would
+really like some feedback. A lot of future content will probably consist of
+similar posts like this where I describe tools I discovered or setups I think
+people would like. What do you guys think about this theme(not the Jekyll one)?
+Is the format to concise or is it too verbose? Any feedback is highly appreciated! Please comment
+[here](https://github.com/Zetagon/blog/issues/1)!
+
+# Background
 Shortcuts for [Spotify](https://wiki.archlinux.org/index.php/Spotify) from
 whichever window you want using
 [xbindkeys](https://wiki.archlinux.org/index.php/Xbindkeys) and dbus.
