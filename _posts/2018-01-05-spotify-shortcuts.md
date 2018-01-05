@@ -56,7 +56,7 @@ To reload ~/.xbindkeysrc you have to run the command ```xbindkeys``` again, but
 first you have to kill previous instances. This is because each time you run
 ```xbindkeys``` a new instance is launched and the program can't handle conflicts
 
-## Misc.
+* Misc.
 
 ```xbindkeys -n``` is helpful for debugging non-working keybindings.
 
