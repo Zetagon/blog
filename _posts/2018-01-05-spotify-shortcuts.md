@@ -75,3 +75,4 @@ found a better use for it.
 ""
 Menu
 ```
+# [Comments on Github](https://github.com/Zetagon/blog/issues/1)
