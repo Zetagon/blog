@@ -23,7 +23,7 @@ github_username:  Zetagon
 
 # Build settings
 markdown: kramdown
-theme:  jekyll-theme-midnight
+theme:  jekyll-theme-tactile
 highlighter: rouge
 plugins:
   - jekyll-feed
