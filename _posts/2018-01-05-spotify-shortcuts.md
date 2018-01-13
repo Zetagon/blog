@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Binding shortcuts to Spotify actions"
 categories: Tools
 ---
